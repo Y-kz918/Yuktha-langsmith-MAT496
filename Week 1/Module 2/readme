@@ -1,1 +1,1 @@
-
+video 1 - This video shows how to create and use datasets in LangSmith for offline AI evaluation. It covers importing CSVs, adding examples manually or from traces, tagging versions, splitting datasets for specialized tests, and sharing/exporting them. The goal is to build reliable “golden sets” to track and improve app performance.
