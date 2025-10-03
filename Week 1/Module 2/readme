@@ -3,3 +3,5 @@ video 1 - This video shows how to create and use datasets in LangSmith for offli
 video 2 - This video explains how to create and use evaluators in LangSmith to measure AI performance with metrics like accuracy and hallucination. It covers writing custom evaluators, using LLMs as judges, running automatic evaluations, handling RAG metrics like relevance and helpfulness, tagging inputs, and applying evaluators to past runs.
 
 video 3 - This video shows how to run experiments in LangSmith by combining datasets and evaluators. It covers setting up experiments via UI or SDK, testing full or partial datasets, changing models and parameters, repeating runs for consistency, managing concurrency, adding metadata for filtering, and tracking results over time.
+
+video 4 - This video demonstrates how to compare experiments in the LangSmith UI. It explains filtering by model or metadata, reviewing inputs and outputs, tracking evaluator feedback, and comparing versions side by side to see trade-offs like latency versus accuracy. It emphasizes how regular experimentation improves AI performance.
