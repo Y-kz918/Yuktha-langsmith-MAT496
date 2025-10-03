@@ -5,3 +5,5 @@ video 1 - The video introduces the @traceable decorator in LangSmith. It automat
 video 2 - The video explains how to set up observability for LangChain agents. It covers tracing and logging different run types (LLM, retriever, tool), handling streaming outputs, adding metadata for model tracking, and using the LangSmith playground to debug and improve workflows.
 
 video 3 - The video covers different ways to add tracing in LangChain apps. It highlights the @traceable decorator for automatic run trees and introduces alternatives like environment variables, context managers, and wrapping OpenAI SDK calls to improve debugging and observability in LangSmith.
+
+video 4 - The video shows how to compare experiments in the LangSmith UI. It covers filtering by model or metadata, checking inputs and outputs, reviewing evaluator feedback, and comparing versions side by side to see trade-offs like latency vs accuracy. It emphasizes how regular experimentation improves AI performance over time.
