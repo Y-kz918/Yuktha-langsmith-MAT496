@@ -7,3 +7,6 @@ video 3 - This video shows how to run experiments in LangSmith by combining data
 video 4 - This video demonstrates how to compare experiments in the LangSmith UI. It explains filtering by model or metadata, reviewing inputs and outputs, tracking evaluator feedback, and comparing versions side by side to see trade-offs like latency versus accuracy. It emphasizes how regular experimentation improves AI performance.
 
 video 5 - This video introduces pairwise evaluation, where outputs from two experiments are compared to determine which performs better. This is useful when direct scoring is hard, but side-by-side comparison is easier.
+
+video 6 -This video explains summary evaluators, which calculate metrics like precision, recall, and F1 score across an entire experiment. They provide a complete view of overall performance rather than focusing on individual examples.
+
