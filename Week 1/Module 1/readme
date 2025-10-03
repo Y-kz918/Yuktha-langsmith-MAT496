@@ -1,3 +1,5 @@
 week 1 module 1 content using groq api
 
 video 1 - The video introduces the @traceable decorator in LangSmith. It automatically builds a “run tree” of function calls, making it easier to track performance, debug apps, and organize runs with metadata.
+
+video 2 - The video explains how to set up observability for LangChain agents. It covers tracing and logging different run types (LLM, retriever, tool), handling streaming outputs, adding metadata for model tracking, and using the LangSmith playground to debug and improve workflows.
